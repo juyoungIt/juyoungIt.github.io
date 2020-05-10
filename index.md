@@ -1,4 +1,4 @@
-# Welcome to JuyoungIt's blog!
+# Welcome to JuyoungIt's page!
 ***
 
 ### 자기소개
