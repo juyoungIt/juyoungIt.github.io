@@ -37,7 +37,7 @@
         + C 프로그래밍을 통해 배운 이론적인 내용을 실습과제를 통해 보완 및 강화
         + 프로그래밍 과정과 요령에 대한 경험 및 학습
 
-2. 2학년 (현재 3학기 재학)
+2. 2학년
     * 자료구조
         + 많은 알고리즘에 활용되는 주요 자료구조 학습
         + 자료구조 관련 알고리즘에 대한 개요
@@ -54,3 +54,40 @@
         + git을 이용한 버전관리, 협업방법 실습
         + 네트워크에 대한 개요
         + github에 대한 실습
+    * 컴퓨터 구조
+        + 컴퓨터 발전의 역사
+        + MIPS CPU 기반의 ISA, QTSQPIM을 통한 어셈블리어 코딩
+        + CPU Addressing Mode
+        + Single Cycle, Multiple Cycle Execution Model
+        + Pipeline
+        + hazard의 발생 및 처리방법
+        + 메모리 계층구조
+        + Cache Miss
+        + Page Miss
+        + TLB, TLB Miss
+        + I/O
+    * 컴퓨터 비전
+        + Preprocessing
+        + Edge Extraction / Line Detection
+        + Image / Video Segmentation
+        + Object Detection / Tracking
+        + Image Transformation
+    * 실전프로젝트1
+        + html, css, javascript
+        + 반응형 웹
+        + jQuery, jsp, CRUD project
+        + JSP CRUD File upload
+        + Spring framework, CRUD project
+        + DI, Spring Interceptor
+    * 웹서비스 개발
+        + xml
+        + dtd
+        + schema
+        + xsl
+        + html
+        + php
+        + javascript
+    * 이산수학
+        + 논리를 명확하게 수식을 사용하여 표현하는 방법
+        + 이산확률
+        + 그래프
