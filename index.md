@@ -1,84 +1,79 @@
-# Welcome to JuyoungIt's page!
+# 로그로 움직이는 개발자, 하주영 입니다.
+
+### Introduce
 ***
+학부과정에서 여러 프로젝트에 참여하여 웹과 앱 서비스를 개발 및 고도화하였습니다. 주로 웹 백엔드 개발을 담당했으며, 개발팀장을 병행하였습니다. 인수인계 과정이 누락된 2개의 프로젝트를 코드단위부터 분석하여 2개의 서비스 (2개의 앱, 1개의 웹)를 내부적으로 통합 및 고도화하고 이를 통합하여 관리할 수 있는 관리웹을 개발하여 하나의 서비스 생태계를 구축한 경험이 있습니다.
 
-### 자기소개
-+ 전   공: 컴퓨터공학심화(한동대학교 3학년 재학)
-+ 관심영역: 웹 서비스 백엔드(Back End)
-+ 사용언어: C, C++, Java
-+ 사용 툴: Xcode, Eclipse, VS(Visual Studio), VScode
+순간적인 기억이나 느낌으로 판단하지 않고, 항상 전체적인 맥락을 파악한 후 의사결정을 하려고 노력하고 있습니다. 지금 당장은 잘못된 설계, 코드인 것 같은 느낌이 들더라도 바로 판단하지 않고, 전체적인 맥락을 파악하여 설계된 시스템과 알고리즘을 이해하려고 노력하고 있습니다. 이를 위해 순간적으로 흘러가는 정보들을 놓치지 않고 깔끔하게 정리하는 저의 역량과 개발과정에서 발생하는 데이터와 로그를 기반으로 모든 의사결정을 하기 위해 노력해왔습니다. 때문에 개발내용을 문서화 하는 일에 많은 관심을 가지고 있습니다. 개발과정에서 발생하는 모든 의사결정의 배경을 모두 기록하여 문서로 유지하며, API 명세 과정을 단순화하기 위해 시스템에 Swagger Framework를 도입하여 기존 Google Docs를 사용한 API 명세 방식에서 발생하던 개발/수정 사항 누락 문제를 해결하고, 문서화 및 테스팅 과정에 사용하는 시간을 줄인 경험이 있습니다.
 
-***
+참여한 대부분의 프로젝트에서 팀장 역할을 담당했습니다. 개발과 함께 리딩을 병행해야하는 위치에서 팀장이 맡아야하는 역할에 대해서 많은 고민을 해왔고, 팀원들의 특성과 강점을 빠르게 파악하고 이를 최대한 존중하여 역할을 분담함으로써 효율적으로, 좋은 분위기 속에서 함께 목표를 달성할 수 있는 좋은 팀을 만들고자 노력해왔습니다.
 
-### 지금까지 공부해온 것, 공부 중인 것
-1. 1학년
-    * 컴퓨터 및 전자공학개론
-        + 컴퓨터 공학에 대한 기초적인 개론적 내용학습
-        + 아두이노를 활용한 코딩 및 하드웨어 설계 경험
-    * 소프트웨어 입문
-        + Processing을 활용한 논리적 사고를 통한 프로그래밍 경험 
-        + 코드를 통한 그래픽적 요소 구현연습
-    * 공학설계입문
-        + 공학적인 설계과정에 대한 전반적인 학습
-        + mindstrom을 이용하여 제약조건을 극복하고 목표를 달성하기 위한 공학적 설계과정을 경험
-    * C 프로그래밍
-        + 프로그래밍 언어 및 동작원리에 대한 개요
-        + C언어의 기초문법에 대한 학습
-        + 배열, 구조체, 포인터 등과 같은 주요 개념학습
-    * C 프로그래밍 실습
-        + C 프로그래밍을 통해 배운 이론적인 내용을 실습과제를 통해 보완 및 강화
-        + 프로그래밍 과정과 요령에 대한 경험 및 학습
+피드백을 부지런히 하는 편입니다. 매일 하루일과, 프로젝트 등 노력을 투입하여 진행한 일들에 대해서 비효율적으로 시간을 사용한 부분, 시행착오를 겪었던 부분은 무엇이 있는 지 꼭 피드백 과정을 거치며 같은 실수를 반복하지 않기 위해 리마인드하고자 노력하고 있습니다.
 
-2. 2학년
-    * 자료구조
-        + 많은 알고리즘에 활용되는 주요 자료구조 학습
-        + 자료구조 관련 알고리즘에 대한 개요
-        + C++ 언어에 대한 간단한 개요 및 활용
-    * 논리설계
-        + Boolean Argebra에 대한 개요 및 학습
-        + 논리회로 설계의 과정 및 방법에 대한 학습
-    * Java 프로그래밍
-        + 객체지향 프로그래밍에 대한 개요 및 주요 개념 학습
-        + Java 기초문법에 대한 학습
-    * 오픈소스 소프트웨어 실습
-        + Linux 운영체제에 대한 개요 및 콘솔명령어 학습
-        + vim 에디터 사용법 학습
-        + git을 이용한 버전관리, 협업방법 실습
-        + 네트워크에 대한 개요
-        + github에 대한 실습
-    * 컴퓨터 구조
-        + 컴퓨터 발전의 역사
-        + MIPS CPU 기반의 ISA, QTSQPIM을 통한 어셈블리어 코딩
-        + CPU Addressing Mode
-        + Single Cycle, Multiple Cycle Execution Model
-        + Pipeline
-        + hazard의 발생 및 처리방법
-        + 메모리 계층구조
-        + Cache Miss
-        + Page Miss
-        + TLB, TLB Miss
-        + I/O
-    * 컴퓨터 비전
-        + Preprocessing
-        + Edge Extraction / Line Detection
-        + Image / Video Segmentation
-        + Object Detection / Tracking
-        + Image Transformation
-    * 실전프로젝트1
-        + html, css, javascript
-        + 반응형 웹
-        + jQuery, jsp, CRUD project
-        + JSP CRUD File upload
-        + Spring framework, CRUD project
-        + DI, Spring Interceptor
-    * 웹서비스 개발
-        + xml
-        + dtd
-        + schema
-        + xsl
-        + html
-        + php
-        + javascript
-    * 이산수학
-        + 논리를 명확하게 수식을 사용하여 표현하는 방법
-        + 이산확률
-        + 그래프
+
+### 나만의 기록
+평소 시간을 효율적으로 사용하는 방법에 대해서 고민합니다. 많은 일정 속에서도 중요한 업무들을 빠뜨리지 않기 위해서 월/일단위로 계획하는 습관을 가지고 있으며, 시간은 Notion으로 4분할법, 구글 캘린더로 Time Boxing을 통해 관리하고 있습니다. 개발 간에 발생하는 이슈나 공부한 내용에 대한 기록은 Notion과 기술 블로그를 통해 유지하고 있습니다.
+
+
+#### Github
+[juyoungIt - Overview](https://github.com/juyoungIt)
+
+#### 기술 블로그
+[모든 것을 기록하는 공간](https://juyoungit.tistory.com/)
+
+
+
+## Projects
+---
+- (2020.07) 인공지능 육목 프로그램 (Java, JavaFx, Traditional Approach)
+- (2021.04 ~ 2021.06) 통일한국 관련 학술자료 검색을 위한 검색엔진 개발 (KUBIC) - MySQL, Inverted Index, BM25, Python, Flask
+- (2021.06 ~ 2021.08) 교내 분실물 찾기 서비스 (HisFinder) - Flutter, Firebase
+- (2021.09 ~ 2021.12) 모두를 위한 식품성분 알리미 Hi,You (AppDev, JavaScript, Firebase, TTS 등)
+- (2021.08 ~ 2022.07) 무선태그를 활용한 어린이 통학, 야외활동 안전지원 서비스 (React, Spring, MySQL, Docker, Flutter, Firebase, React Native 등)
+- (2022.08 ~ ) 교내 서비스 iTaxi 백엔드 리뉴얼 (Spring Boot, Hibernate, MySQL 등)
+- (2022.08 ~ ) 연구실 홈페이지 개발
+
+## Other Experiences
+---
+- (Clubs, 2021.03 ~ ) - CRA, 교내 전산개발 동아리
+- (Internship, 2021.01 ~ 2022.02) - (주)엠투테크, Spring 기반 REST API 서버개발, React 기반 프론트엔드 개발
+- (LAB, 2021.06 ~ 2022.12) - WALAB, Web / App 개발 연구실
+
+## Skills
+---
+Web-Front-End :  HTML, CSS, JavaScript, React
+
+Web-Back-End : Java, Spring, MyBatis, AWS (EC2, RDS)
+
+Database : MySQL, MariaDB, Firebase
+
+## Leading
+---
+- 2021.03 ~ 2021.08 - (동아리) HisFinder 프로젝트 대표학생
+- 2021.08 ~ 2022.07 - (산학프로젝트) 공학프로젝트기획, 캡스톤프로젝트 대표학생
+- 2021.09 ~ 2021.12 - (대회) BizFlow App Contest Hi,You 프로젝트 대표학생
+- 2021.12 ~ 2022.06 - (연구실 활동) LAB 대표학생 (Web/App 개발 연구실 대표학생)
+- 2022.06 ~ - 교내 전산동아리(CRA) 개발팀장
+
+## Awards
+---
+- (2019.12) 드림컨테스트 최우수상 (Presentation)
+- (2020.08) 한동대학교 SW 페스티벌 인공지능육목 부문 장려상
+- (2021.08) BizFlow AppDev Camp 대상
+- (2021.12) BizFlow AppDev Contest 대상
+
+## TA(= Teaching Assistant)
+---
+- 2021.09 ~ 2021.12 - (전공수업) 웹서비스 개발 TA
+- 2021.12 ~ 2022.01 - (캠프) Java 프로그래밍 TA
+- 2021.12 ~ 2022.01 - (캠프) Spring 웹개발 TA
+- 2022.03 ~ 2022.08 - (전공수업) 객체지향 설계패턴 TA
+
+## Education Volunteering
+---
+- 2021.09 ~ 2021.11 - (Python) 경주고등학교
+- 2022.03 ~ 2022.06 - (Python) 동지여자고등학교
+
+## Education
+---
+- 2017 ~ 2022 - 한동대학교, 전산전자공학부
